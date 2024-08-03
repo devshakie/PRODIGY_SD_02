@@ -26,10 +26,10 @@ npm install
 npm start
 Open your web browser and navigate to http://localhost:3000 to view the application.
 ## How to play
-+The game will prompt you to guess a number between 1 and 100.
-+Enter your guess in the input field.
-+Click the "Submit Guess" button.
-+The game will provide feedback if your guess is too high or too low.
-+Continue guessing until you correctly guess the number.
-+The game will display the number of attempts it took to guess the correct number.
++The game will prompt you to guess a number between 1 and 100.  
++Enter your guess in the input field.  
++Click the "Submit Guess" button.  
++The game will provide feedback if your guess is too high or too low.  
++Continue guessing until you correctly guess the number.  
++The game will display the number of attempts it took to guess the correct number.  
 
