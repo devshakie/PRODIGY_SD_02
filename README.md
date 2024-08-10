@@ -16,7 +16,7 @@ This project is a simple guessing game where the user has to guess a random numb
 + npm (v6 or later)
 ## Installation
 ### Clone the repository:
-git clone https://github.com/your-username/guessing-game.git
+git clone https://github.com/devshakie/PRODIGY_SD_02.git
 ### Navigate to the project directory:
 cd guessing-game
 ### Install dependencies:
